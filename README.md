@@ -2,14 +2,14 @@
 
 ## Steps to look out for
 
-- Fork this Repo
+- Fork this Repo 
 - Clone the fork in your local device
 - Create a new Branch (follow this pattern "dev_GithubUsername_date").
 - Make some changes (Look out for staged files and unstaged files)
 - Add all the files into staged changes.
 - Commit your work, Make yourself write a good commit message.
 - Push the changes.
-- Finally, Raise a PR. (Squash your commits or maybe rebase your branch)
+- Finally , Raise a PR. (Squash your commits or maybe rebase your branch)
 
 ## Sources for help
 
